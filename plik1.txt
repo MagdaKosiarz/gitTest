@@ -1,0 +1,2 @@
+To jest pierwsza wersja pliku plik1.txt
+Zmiana w pliku numer 1.
