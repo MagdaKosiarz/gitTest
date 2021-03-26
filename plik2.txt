@@ -1,1 +1,0 @@
-To jest pierwsza wersja pliku plik2.txt
